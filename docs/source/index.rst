@@ -76,7 +76,7 @@ Troubleshooting Common Issues
 
 **Printer Not Detected**
 
-Ensure both the printer and your Windows computer are connected to the same Wi-Fi network. Restart devices if needed.
+Ensure both the printer and your Windows computer are connected to the same WiFi network. Restart devices if needed.
 
 **Driver Installation Fails**
 
