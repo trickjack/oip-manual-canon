@@ -31,7 +31,7 @@ Before you begin the setup process, make sure you have the following:
 Step 2: Download Canon Printer Driver
 -------------------------------------
 
-Visit the official Canon support website at **ij.start.canon**. Enter your printer model and download the latest driver compatible with your version of Windows. Save the driver file to an easily accessible location like your **Downloads** folder.
+Visit the official Canon support website at **ij.start.canon**. Enter your printer model and download the latest driver compatible with your version of Windows. Save the driver file to an easily accessible location like your **Downloads** folder
 
 Step 3: Connect Canon Printer to Computer via Wi-Fi
 ---------------------------------------------------
