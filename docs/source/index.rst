@@ -10,7 +10,7 @@ To install your **Canon printer** to a **Windows computer wirelessly** **[Dial +
 How Do I Install My Canon Printer to My Computer? Easy Wireless Setup with Windows
 ----------------------------------------------------------------------------------
 
-Installing your **Canon printer wirelessly** to a **Windows computer** has never been easier. Whether you're setting up a brand-new device or reconnecting an existing one, this detailed guide will walk you through each step for a smooth and hassle-free experience
+Installing your **Canon printer wirelessly** to a **Windows computer** has never been easier. Whether you're setting up a brand-new device or reconnecting an existing one, this detailed guide will walk you through each step for a smooth and hassle-free experience.
 
 Why Choose Canon Printers?
 --------------------------
@@ -55,7 +55,7 @@ Once connected, the printer will display a confirmation message or a Wi-Fi light
 Step 4: Install the Printer Driver
 ----------------------------------
 
-Locate and double-click the driver setup file you downloaded. Follow the on-screen instructions to install the software. Accept the license agreement and allow the program to detect your printer on the Wi-Fi network.
+Locate and double-click the driver setup file you downloaded. Follow the on-screen instructions to install the software. Accept the license agreement and allow the program to detect your printer on the WiFi network.
 
 Step 5: Add the Canon Printer to Windows
 ----------------------------------------
